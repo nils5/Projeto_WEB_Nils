@@ -1,0 +1,30 @@
+{
+  "name": "projeto-fullstack-main",
+  "version": "1.0.0",
+  "description": "Projeto Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nils5/projeto-fullstack.git"
+  },
+  "keywords": [
+    "ermelinda5394733"
+  ],
+  "author": "Nils Mendes Tavares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nils5/projeto-fullstack/issues"
+  },
+  "homepage": "https://github.com/nils5/projeto-fullstack#readme",
+  "dependencies": {
+    "fastify": "^5.4.0",
+    "prisma": "^6.11.0",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.3"
+  }
+}
